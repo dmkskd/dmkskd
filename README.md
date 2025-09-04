@@ -5,6 +5,8 @@
 
 An interactive educational tool that visualizes UDP packet processing through the Linux kernel network stack.
 
+You can open it in your browser here: [linux-kernel-network-stack-visualization](https://dmkskd.github.io/linux-kernel-network-stack-visualization/)
+
 ### [Linux Kernel Development Environment on Mac](https://github.com/dmkskd/linux-kernel-debugging-on-mac)
 
 Setup a Linux Kernel development environment on mac arm64 processor.
