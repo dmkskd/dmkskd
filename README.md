@@ -20,6 +20,7 @@ Re-implementing Brendan Gregg's `bpftrace` networking 1 liner showing the `rx pa
 ### [Parquet Analyzer](https://github.com/dmkskd/parquet-analyzer)
 
 Interactive TUI for analyzing Parquet file metadata, compression, and optimization.
+![Screenshot](./parquet-analyzer.gif)
 
 ### [Apache Iceberg Demo](https://github.com/dmkskd/apache-iceberg-demo)
 
