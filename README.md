@@ -24,3 +24,11 @@ Interactive TUI for analyzing Parquet file metadata, compression, and optimizati
 ### [Apache Iceberg Demo](https://github.com/dmkskd/apache-iceberg-demo)
 
 Demonstrates Apache Iceberg's core features through two different demo scripts that showcase ACID operations, schema evolution, time travel, and file structure.visualization.
+
+## Trading
+
+### 🚧[OrderBook Playground](https://github.com/dmkskd/orderbook-playground) 🚧
+
+Pure C / Assembly implementation of OrderBook to experiment with Neon SIMD instructions
+
+ 
