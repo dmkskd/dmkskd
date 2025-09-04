@@ -11,7 +11,7 @@ You can open it in your browser here: [linux-kernel-network-stack-visualization]
 
 Setup a Linux Kernel development environment on mac arm64 processor.
 
-### (https://github.com/dmkskd/netif-receive)
+### [netif_receive](https://github.com/dmkskd/netif-receive)
 
 Re-implementing Brendan Gregg's `bpftrace` networking 1 liner showing the `rx packets distribution per device / cpu using` Rust / Aya.
 
