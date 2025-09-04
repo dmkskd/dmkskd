@@ -29,6 +29,6 @@ Demonstrates Apache Iceberg's core features through two different demo scripts t
 
 ### 🚧[OrderBook Playground](https://github.com/dmkskd/orderbook-playground) 🚧
 
-Pure C / Assembly implementation of OrderBook to experiment with Neon SIMD instructions
+Pure C / Assembly OrderBook implementation to experiment with Neon SIMD instructions.
 
  
