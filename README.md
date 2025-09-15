@@ -20,7 +20,7 @@ Re-implementing Brendan Gregg's `bpftrace` networking 1 liner showing the `rx pa
 ### [ClickHouse Settings Browser](https://github.com/dmkskd/clickhouse-settings-browser)
 Simple, local viewer for ClickHouse settings across versions. It parses the ClickHouse source code to extract settings, defaults, tier (Production/Beta/Experimental), Cloud‑only flags, and version history, and renders them in a compact UI with filters.
 
-You can open it in your browser here: [clickhouse-settings-browser](https://dmkskd.github.io/clickhouse-settings-browser/)
+You can open it in your browser here: [stable](https://dmkskd.github.io/clickhouse-settings-browser/) and [beta channel](https://dmkskd.github.io/clickhouse-settings-browser/beta).
 
 ### [Apache Iceberg Demo](https://github.com/dmkskd/apache-iceberg-demo)
 
