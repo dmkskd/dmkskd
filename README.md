@@ -17,6 +17,12 @@ Re-implementing Brendan Gregg's `bpftrace` networking 1 liner showing the `rx pa
 
 ## Data Engineering
 
+### [SQL Shader](https://github.com/dmkskd/sql-shader)
+
+A browser-based SQL shader editor that uses database engines as pixel shaders.
+
+You can open it in your browser here: [DuckDB-WASM SQL Shader](https://dmkskd.github.io/sql-shader/).
+
 ### [ClickHouse Settings Browser](https://github.com/dmkskd/clickhouse-settings-browser)
 Simple, local viewer for ClickHouse settings across versions. It parses the ClickHouse source code to extract settings, defaults, tier (Production/Beta/Experimental), Cloud‑only flags, and version history, and renders them in a compact UI with filters.
 
