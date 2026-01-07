@@ -15,6 +15,12 @@ Setup a Linux Kernel development environment on mac arm64 processor.
 
 Re-implementing Brendan Gregg's `bpftrace` networking 1 liner showing the `rx packets distribution per device / cpu using` Rust / Aya.
 
+## Kubernetes
+
+### [AWS EKS Network Policy Agent Simulator](https://github.com/dmkskd/aws-eks-network-policy-agent-simulator)
+
+AWS EKS Network Policy Agent ebpf implementation simulator
+
 ## Data Engineering
 
 ### [SQL Shader](https://github.com/dmkskd/sql-shader)
