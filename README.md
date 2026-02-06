@@ -21,9 +21,11 @@ Re-implementing Brendan Gregg's `bpftrace` networking 1 liner showing the `rx pa
 
 AWS EKS Network Policy Agent ebpf implementation simulator
 
-### [K8s Compass](https://dmkskd.github.io/k8s-compass/)
+### [K8s Compass](https://github.com/dmkskd/k8s-compass/)
 
 Kubernetes API and Release browser, with curated KEP commentary and Analytics
+
+You can open it in your browser here: [K8s Compass](https://dmkskd.github.io/k8s-compass/)
 
 ## Data Engineering
 
