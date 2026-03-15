@@ -29,6 +29,10 @@ You can open it in your browser here: [K8s Compass](https://dmkskd.github.io/k8s
 
 ## Data Engineering
 
+### [TraceHouse](https://github.com/dmkskd/tracehouse)
+
+ClickHouse monitoring under one roof: [TraceHouse](https://dmkskd.github.io/tracehouse/)
+
 ### [SQL Shader](https://github.com/dmkskd/sql-shader)
 
 A browser-based SQL shader editor that uses database engines as pixel shaders.
