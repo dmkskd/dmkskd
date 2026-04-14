@@ -11,6 +11,10 @@ You can open it in your browser here: [linux-kernel-network-stack-visualization]
 
 Setup a Linux Kernel development environment on mac arm64 processor.
 
+### [AWS ENA Playground](https://github.com/dmkskd/aws-ena-playground)
+
+Building the AWS ENA driver from scratch and trying to invoke a Rust-compiled library from the linux kernel network stack.
+
 ### [netif_receive](https://github.com/dmkskd/netif-receive)
 
 Re-implementing Brendan Gregg's `bpftrace` networking 1 liner showing the `rx packets distribution per device / cpu using` Rust / Aya.
