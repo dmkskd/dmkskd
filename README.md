@@ -1,3 +1,24 @@
+# If you are in a hurry
+
+## Highlights
+
+### [TraceHouse](https://github.com/dmkskd/tracehouse)
+
+ClickHouse monitoring under one roof: [TraceHouse](https://dmkskd.github.io/tracehouse/)
+
+### [K8s Compass](https://github.com/dmkskd/k8s-compass/)
+
+Kubernetes API and Release browser, with curated KEP commentary and Analytics
+
+You can open it in your browser here: [K8s Compass](https://dmkskd.github.io/k8s-compass/)
+
+### [SQL Shader](https://github.com/dmkskd/sql-shader)
+
+A browser-based SQL shader editor that uses database engines as pixel shaders.
+
+You can open it in your browser here: [DuckDB-WASM SQL Shader](https://dmkskd.github.io/sql-shader/).
+
+# By Category
 
 ## Linux Kernel
 
