@@ -6,6 +6,10 @@
 
 ClickHouse monitoring under one roof: [TraceHouse](https://dmkskd.github.io/tracehouse/)
 
+### [ClickHouse Patterns](https://github.com/dmkskd/clickhouse-patterns)
+
+ClickHouse executable patterns: [ClickHouse Patterns](https://dmkskd.github.io/clickhouse-patterns/)
+
 ### [K8s Compass](https://github.com/dmkskd/k8s-compass/)
 
 Kubernetes API and Release browser, with curated KEP commentary and Analytics
@@ -57,6 +61,10 @@ You can open it in your browser here: [K8s Compass](https://dmkskd.github.io/k8s
 ### [TraceHouse](https://github.com/dmkskd/tracehouse)
 
 ClickHouse monitoring under one roof: [TraceHouse](https://dmkskd.github.io/tracehouse/)
+
+### [ClickHouse Patterns](https://github.com/dmkskd/clickhouse-patterns)
+
+ClickHouse executable patterns: [ClickHouse Patterns](https://dmkskd.github.io/clickhouse-patterns/)
 
 ### [SQL Shader](https://github.com/dmkskd/sql-shader)
 
