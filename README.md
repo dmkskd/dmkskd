@@ -10,6 +10,10 @@ ClickHouse monitoring under one roof: [TraceHouse](https://dmkskd.github.io/trac
 
 ClickHouse executable patterns: [ClickHouse Patterns](https://dmkskd.github.io/clickhouse-patterns/)
 
+### [Linux Kernel Explorer](https://github.com/dmkskd/linux-kernel-explorer)
+
+A terminal explorer for a live Linux kernel, built on [drgn](https://drgn.readthedocs.io/).
+
 ### [K8s Compass](https://github.com/dmkskd/k8s-compass/)
 
 Kubernetes API and Release browser, with curated KEP commentary and Analytics
@@ -26,15 +30,19 @@ You can open it in your browser here: [DuckDB-WASM SQL Shader](https://dmkskd.gi
 
 ## Linux Kernel
 
+### [Linux Kernel Explorer](https://github.com/dmkskd/linux-kernel-explorer)
+
+A terminal explorer for a live Linux kernel, built on [drgn](https://drgn.readthedocs.io/).
+
+### [Linux Kernel Development Environment on Mac](https://github.com/dmkskd/linux-kernel-debugging-on-mac)
+
+Setup a Linux Kernel development environment on mac arm64 processor.
+
 ### [Linux Kernel Network Stack Visualization](https://github.com/dmkskd/linux-kernel-network-stack-visualization)
 
 An interactive educational tool that visualizes UDP packet processing through the Linux kernel network stack.
 
 You can open it in your browser here: [linux-kernel-network-stack-visualization](https://dmkskd.github.io/linux-kernel-network-stack-visualization/)
-
-### [Linux Kernel Development Environment on Mac](https://github.com/dmkskd/linux-kernel-debugging-on-mac)
-
-Setup a Linux Kernel development environment on mac arm64 processor.
 
 ### [AWS ENA Playground](https://github.com/dmkskd/aws-ena-playground)
 
@@ -46,15 +54,15 @@ Re-implementing Brendan Gregg's `bpftrace` networking 1 liner showing the `rx pa
 
 ## Kubernetes
 
-### [AWS EKS Network Policy Agent Simulator](https://github.com/dmkskd/aws-eks-network-policy-agent-simulator)
-
-AWS EKS Network Policy Agent ebpf implementation simulator
-
 ### [K8s Compass](https://github.com/dmkskd/k8s-compass/)
 
 Kubernetes API and Release browser, with curated KEP commentary and Analytics
 
 You can open it in your browser here: [K8s Compass](https://dmkskd.github.io/k8s-compass/)
+
+### [AWS EKS Network Policy Agent Simulator](https://github.com/dmkskd/aws-eks-network-policy-agent-simulator)
+
+AWS EKS Network Policy Agent ebpf implementation simulator
 
 ## Data Engineering
 
