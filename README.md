@@ -4,11 +4,11 @@
 
 ### [TraceHouse](https://github.com/dmkskd/tracehouse)
 
-ClickHouse monitoring under one roof: [TraceHouse](https://dmkskd.github.io/tracehouse/)
+ClickHouse monitoring under one roof. Docs & Live demo: [TraceHouse](https://dmkskd.github.io/tracehouse/)
 
 ### [ClickHouse Patterns](https://github.com/dmkskd/clickhouse-patterns)
 
-ClickHouse executable patterns: [ClickHouse Patterns](https://dmkskd.github.io/clickhouse-patterns/)
+ClickHouse executable patterns. Live demo: [ClickHouse Patterns](https://dmkskd.github.io/clickhouse-patterns/)
 
 ### [Linux Kernel Explorer](https://github.com/dmkskd/linux-kernel-explorer)
 
@@ -16,15 +16,11 @@ A terminal explorer for a live Linux kernel, built on [drgn](https://drgn.readth
 
 ### [K8s Compass](https://github.com/dmkskd/k8s-compass/)
 
-Kubernetes API and Release browser, with curated KEP commentary and Analytics
-
-You can open it in your browser here: [K8s Compass](https://dmkskd.github.io/k8s-compass/)
+Kubernetes API and Release browser, with curated KEP commentary and Analytics. Live demo: [K8s Compass](https://dmkskd.github.io/k8s-compass/)
 
 ### [SQL Shader](https://github.com/dmkskd/sql-shader)
 
-A browser-based SQL shader editor that uses database engines as pixel shaders.
-
-You can open it in your browser here: [DuckDB-WASM SQL Shader](https://dmkskd.github.io/sql-shader/).
+A browser-based SQL shader editor that uses database engines as pixel shaders. Live demo: [DuckDB-WASM SQL Shader](https://dmkskd.github.io/sql-shader/).
 
 # By Category
 
