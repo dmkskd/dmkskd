@@ -14,6 +14,10 @@ ClickHouse executable patterns. Live demo: [ClickHouse Patterns](https://dmkskd.
 
 A terminal explorer for a live Linux kernel, built on [drgn](https://drgn.readthedocs.io/).
 
+### [TF View](https://github.com/dmkskd/tf-view)
+
+A Terraform plan visualiser. Live demo: [TF View](https://dmkskd.github.io/tf-view/)
+
 ### [K8s Compass](https://github.com/dmkskd/k8s-compass/)
 
 Kubernetes API and Release browser, with curated KEP commentary and Analytics. Live demo: [K8s Compass](https://dmkskd.github.io/k8s-compass/)
